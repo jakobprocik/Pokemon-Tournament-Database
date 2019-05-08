@@ -29,3 +29,7 @@ The script automatically setup a static Database which will look like this:
 
 
 ![dbstructurepic](https://user-images.githubusercontent.com/48180595/56863865-25c5d100-69bc-11e9-8d9c-4a3c8a28b412.png)
+
+
+
+**Project was for demonstration/learning purposes only**
